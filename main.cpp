@@ -6,19 +6,37 @@ int main()
     // ↓おまじない。消さないように
     system("chcp 65001 > nul"); // コンソールをUTF-8にする設定
 
+	enum {
+		yes = 1,
+		no = 0
+	};
+
     struct Vector2 {
         int x;
         int y;
     };
 
-    struct haruki{
-        int hp = 50;
-		int atack = 0;
-		int defense = 0;
-        int stamina = 5;
+    struct humann{
+        int hp ;
+		int atack ;
+		int defense;
+        int stamina;
     };
 
+	humann haruki{
+		.hp = 50,
+		.atack = 0,
+		.defense = 0,
+		.stamina = 5
+	};
 
+	printf("はるきの一日へようこそ\n\n");
+	printf("prease to ENTER\n");
+
+
+	/*for (haruki.stamina <= 0) {
+		scanf_s("%d", &haruki.stamina);
+	}*/
 
 	printf("はるきが笑った\n");
 
