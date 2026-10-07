@@ -2,5 +2,5 @@
   <Configurations>
     <Platform Name="x64" />
   </Configurations>
-  <Project Path="haruki.vcxproj" />
+  <Project Path="haruki.vcxproj" Id="f7739be9-f510-4280-8116-5fec2bb05756" />
 </Solution>
