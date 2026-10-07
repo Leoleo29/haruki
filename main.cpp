@@ -31,14 +31,14 @@ int main()
 	};
 
 	printf("はるきの一日へようこそ\n\n");
-	printf("prease to ENTER\n");
-
 
 	/*for (haruki.stamina <= 0) {
 		scanf_s("%d", &haruki.stamina);
 	}*/
 
 	printf("はるきが笑った\n");
+	printf("はるきが帰った\n");
+
 
     return 0;
 }
