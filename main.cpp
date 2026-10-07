@@ -6,22 +6,25 @@ int main()
     // ↓おまじない。消さないように
     system("chcp 65001 > nul"); // コンソールをUTF-8にする設定
 
+<<<<<<< HEAD
+	printf("はるきが笑った\n");
+=======
 	enum {
 		yes = 1,
 		no = 0
 	};
 
-	struct Vector2 {
-		int x;
-		int y;
-	};
+    struct Vector2 {
+        int x;
+        int y;
+    };
 
-	struct humann {
-		int hp;
-		int atack;
+    struct humann{
+        int hp ;
+		int atack ;
 		int defense;
-		int stamina;
-	};
+        int stamina;
+    };
 
 	humann haruki{
 		.hp = 50,
@@ -39,6 +42,7 @@ int main()
 	}*/
 
 	printf("はるきが笑った\n");
+>>>>>>> origin/はるきの冒険
 
     return 0;
 }
