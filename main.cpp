@@ -36,6 +36,8 @@ int main()
 	printf("はるきの一日へようこそ\n\n");
 	printf("prease to ENTER\n");
 
+	printf("Your My God");
+
 
 	/*for (haruki.stamina <= 0) {
 		scanf_s("%d", &haruki.stamina);
