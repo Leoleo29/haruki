@@ -6,6 +6,9 @@ int main()
     // ↓おまじない。消さないように
     system("chcp 65001 > nul"); // コンソールをUTF-8にする設定
 
+<<<<<<< HEAD
+	printf("はるきが笑った\n");
+=======
 	enum {
 		yes = 1,
 		no = 0
@@ -39,6 +42,7 @@ int main()
 	}*/
 
 	printf("はるきが笑った\n");
+>>>>>>> origin/はるきの冒険
 
     return 0;
 }
