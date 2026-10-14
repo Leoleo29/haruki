@@ -13,7 +13,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{f7739be9-f510-4280-8116-5fec2bb05756}</ProjectGuid>
+    <ProjectGuid>{0EF75538-0967-214E-1B0E-CAD56F441E94}</ProjectGuid>
     <RootNamespace>haruki</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
