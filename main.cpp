@@ -33,6 +33,8 @@ int main()
 	printf("はるきの一日へようこそ\n\n");
 	printf("prease to ENTER\n");
 
+	printf("HELLO")
+
 
 	/*for (haruki.stamina <= 0) {
 		scanf_s("%d", &haruki.stamina);
